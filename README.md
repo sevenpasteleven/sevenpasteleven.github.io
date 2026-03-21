@@ -8,7 +8,7 @@ My main research areas are inverse problems, especially in statistics, mainly de
 I like programming in Python, however, in the past I also worked with R.
 
 ## List of publications.
-# 2026
+-- 2026 --
 On Bertino copulas and the Markov product (w/ Wolfgang Trutschnig). https://doi.org/10.1016/j.jmaa.2026.130572
-# 2025
+-- 2025 --
 An asymptotic expansion for the Mellin transform of a beta function and applications. https://doi.org/10.1080/10652469.2025.2565257
