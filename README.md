@@ -15,7 +15,7 @@ I like programming in Python, however, in the past I also worked with R.
 
 **2026**
 
-- On Bertino copulas and the Markov product (w/ Wolfgang Trutschnig). In: *Journal of Mathematical Analysis and Applications* 561(1), 130572 https://doi.org/10.1016/j.jmaa.2026.130572 [preprint](https://trutschnig.net/p61.pdf)
+- On Bertino copulas and the Markov product (w/ Wolfgang Trutschnig). In: *Journal of Mathematical Analysis and Applications* 561(1), 130572. https://doi.org/10.1016/j.jmaa.2026.130572 ([preprint](https://trutschnig.net/p61.pdf))
 
 **2025**
 
@@ -23,8 +23,8 @@ I like programming in Python, however, in the past I also worked with R.
 
 ### Preprints.
 
-Deconvolution of distribution functions without integral transforms. Submitted. [preprint available on arXiv](https://arxiv.org/abs/2510.25916)
+Deconvolution of distribution functions without integral transforms. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.25916))
 
-Deconvolution of arbitrary distribution functions and densities. Submitted. [preprint available on arXiv](https://arxiv.org/abs/2510.04742)
+Deconvolution of arbitrary distribution functions and densities. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.04742))
 
-Mean and quantile regression in the copula setting: properties, sharp bounds and a note on estimation (w/ Wolfgang Trutschnig). Submitted. [preprint available on arXiv](https://arxiv.org/abs/2510.03804)
+Mean and quantile regression in the copula setting: properties, sharp bounds and a note on estimation (w/ Wolfgang Trutschnig). Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.03804))
