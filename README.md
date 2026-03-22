@@ -25,4 +25,4 @@ Deconvolution of distribution functions without integral transforms. Submitted. 
 
 Deconvolution of arbitrary distribution functions and densities. Submitted. [preprint available on arXiv](https://arxiv.org/abs/2510.04742)
 
-Mean and quantile regression in the copula setting: properties, sharp bounds and a note on estimation. Submitted. [preprint available on arXiv](https://arxiv.org/abs/2510.03804)
+Mean and quantile regression in the copula setting: properties, sharp bounds and a note on estimation (w/ Wolfgang Trutschnig). Submitted. [preprint available on arXiv](https://arxiv.org/abs/2510.03804)
