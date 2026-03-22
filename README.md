@@ -14,10 +14,12 @@ I like programming in Python, however, in the past I also worked with R.
 ### Published.
 
 **2026**
-On Bertino copulas and the Markov product (w/ Wolfgang Trutschnig). In: *Journal of Mathematical Analysis and Applications* 561(1), 130572 https://doi.org/10.1016/j.jmaa.2026.130572 [preprint](https://trutschnig.net/p61.pdf)
+
+- On Bertino copulas and the Markov product (w/ Wolfgang Trutschnig). In: *Journal of Mathematical Analysis and Applications* 561(1), 130572 https://doi.org/10.1016/j.jmaa.2026.130572 [preprint](https://trutschnig.net/p61.pdf)
 
 **2025**
-An asymptotic expansion for the Mellin transform of a beta function and applications. In: *Integral Transforms and Special Functions* 36(12), 1075–1097 https://doi.org/10.1080/10652469.2025.2565257 (open access)
+
+- An asymptotic expansion for the Mellin transform of a beta function and applications. In: *Integral Transforms and Special Functions* 36(12), 1075–1097 https://doi.org/10.1080/10652469.2025.2565257 (open access)
 
 ### Preprints.
 
