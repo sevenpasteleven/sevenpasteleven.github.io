@@ -23,6 +23,8 @@ I like programming in Python, however, in the past I also worked with R.
 
 ### Preprints.
 
+Generalizing Laplace's method by means of Mellin transforms. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2606.23430))
+
 Deconvolution of distribution functions without integral transforms. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.25916))
 
 Deconvolution of arbitrary distribution functions and densities. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.04742))
