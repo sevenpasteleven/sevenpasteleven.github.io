@@ -24,6 +24,6 @@ Generalizing Laplace's method by means of Mellin transforms. Submitted. ([prepri
 
 Deconvolution of distribution functions without integral transforms. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.25916))
 
-Deconvolution of arbitrary distribution functions and densities. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.04742))
+Deconvolution of arbitrary distribution functions and densities. / Inversion of convolution transforms associated with probability measures. Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.04742))
 
 Mean and quantile regression in the copula setting: properties, sharp bounds and a note on estimation (w/ Wolfgang Trutschnig). Submitted. ([preprint available on arXiv](https://arxiv.org/abs/2510.03804))
