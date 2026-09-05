@@ -1,13 +1,10 @@
 # Welcome to my research portfolio!
 
 ## Overview.
-My name is Henrik Kaiser and I'm currently postdoctoral researcher at the IDA Lab, which is part of the Paris Lodron University of Salzburg, Austria. I began my study of mathematics in 2012 at Justus-Liebig University of Giessen, Germany, where I eventually finished with my PhD in 2023.
+My name is Henrik.
 
 ## Research areas.
-My main research areas are inverse problems, especially in statistics, mainly deconvolution. Besides, I work on topics related to copula theory, integral transforms, special functions and asymptotic expansions.
-
-## Programming skills.
-I like programming in Python, however, in the past I also worked with R.
+My main research areas are inverse problems, especially in statistics, mainly deconvolution. Besides, I work on topics related to integral transforms, special functions and asymptotic expansions.
 
 ## List of publications.
 
